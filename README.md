@@ -25,7 +25,7 @@ Summon the Data: Download the Stack Overflow 2023 survey results CSV – your ga
 
 Conjure the Magic: Launch Power BI and initiate a new project. Follow the spells in the README to weave relationships, create measures, and build your visual empire.
 
-Unleash the Report: Cast the spell to upload your masterpiece to Power BI service. Share it with fellow wizards and witches.
+Unleash the Report: Cast the spell to upload your masterpiece to Power BI service. Share it with fellows.
 
 Feedback Alchemy: Gather feedback from the magical community and continuously improve your report. Let the data evolve and thrive!
 
